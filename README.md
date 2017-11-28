@@ -21,5 +21,5 @@
 * 
 
 ## Filme
-* [Hidden Figures](http://www.imdb.com/title/tt4846340/)
-* [The Imitation Game](http://www.imdb.com/title/tt2084970/)
+* Theodore Melfi: [Hidden Figures](http://www.imdb.com/title/tt4846340/)
+* Morten Tyldum: [The Imitation Game](http://www.imdb.com/title/tt2084970/)
