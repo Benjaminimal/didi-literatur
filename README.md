@@ -6,6 +6,7 @@
 * Edmund de Waal: [Die Weisse Strasse](http://www.thewhiteroadbook.com/)
 * Neal Stephenson: [The Baroque Cycle](https://en.wikipedia.org/wiki/The_Baroque_Cycle)
 * Donald Norman: [The Desing of Everyday Things ](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things)
+* Douglas Adams: [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
 
 ## Comics
 * Scott McCloud: [Understanding Comics](https://en.wikipedia.org/wiki/Understanding_Comics)
