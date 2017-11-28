@@ -15,5 +15,10 @@
 ## Blogs
 * Randall Munroe: [What if](https://what-if.xkcd.com/)
 
+## Artikles
+* Dan Lyons: [Jerks and the Start-Ups They Ruin](https://www.nytimes.com/2017/04/01/opinion/sunday/jerks-and-the-start-ups-they-ruin.html)
+* Sebastian Grüner: [Tschüss Limux, hallo Chaos!](https://www.golem.de/news/muenchen-tschuess-limux-hallo-chaos-1711-131292.html)
+* 
+
 ## Movies
 * [Hidden Figures](http://www.imdb.com/title/tt4846340/)
