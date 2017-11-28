@@ -1,6 +1,6 @@
 # didi-literatur  
 
-## Books
+## Bücher
 * William Gibson, Bruce Sterling: [Difference Engine](https://en.wikipedia.org/wiki/Difference_engine)
 * Frederick Brooks: [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 * Edmund de Waal: [Die Weisse Strasse](http://www.thewhiteroadbook.com/)
@@ -15,10 +15,10 @@
 ## Blogs
 * Randall Munroe: [What if](https://what-if.xkcd.com/)
 
-## Artikles
+## Artikel
 * Dan Lyons: [Jerks and the Start-Ups They Ruin](https://www.nytimes.com/2017/04/01/opinion/sunday/jerks-and-the-start-ups-they-ruin.html)
 * Sebastian Grüner: [Tschüss Limux, hallo Chaos!](https://www.golem.de/news/muenchen-tschuess-limux-hallo-chaos-1711-131292.html)
 * 
 
-## Movies
+## Filme
 * [Hidden Figures](http://www.imdb.com/title/tt4846340/)
